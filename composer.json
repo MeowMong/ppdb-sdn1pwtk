@@ -1,0 +1,27 @@
+{
+    "name": "ppdb/sdn1pwtk",
+    "description": "sdn1pwtk ppdb",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sdn1pwtk",
+            "email": "sdn1pwtk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^0.8.5",
+        "longman/telegram-bot": "^0.61.1",
+        "picqer/php-barcode-generator": "^2.0"
+    }
+}
