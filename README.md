@@ -4,7 +4,7 @@
 Proyek ini adalah pengembangan fitur Penerimaan Peserta Didik Baru (PPDB) secara daring untuk website SD Negeri 1 Purwokerto Kulon menggunakan metode Extreme Programming (XP). Sistem ini dirancang untuk memudahkan proses pendaftaran siswa baru dengan meningkatkan aksesibilitas dan efisiensi.
 
 ## Demo Project
-[Klik di sini untuk melihat demo](https://example.com/demo)
+[Klik di sini untuk melihat demo](https://ppdb.sdn1purwokertokulon.sch.id)
 
 ## Project Screenshots
 ![Halaman Utama](screenshots/homepage.png)
