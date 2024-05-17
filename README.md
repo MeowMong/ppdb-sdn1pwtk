@@ -7,7 +7,7 @@ Proyek ini adalah pengembangan fitur Penerimaan Peserta Didik Baru (PPDB) secara
 [Klik di sini untuk melihat demo](https://ppdb.sdn1purwokertokulon.sch.id)
 
 ## Project Screenshots
-![Halaman Utama](https://drive.google.com/file/d/1D4He_dXsijpKoKqgZav3x5IqFTyMa17q/view?usp=sharing)
+![Halaman Utama](assets/Beranda-2.jpeg)
 
 ## Features
 - **Admin:**
